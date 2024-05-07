@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Santiago Villa Neighborhood Association</title>
-    <link>https://drjkl.github.io/SVNA/</link>
+    <link>http://localhost:1313/SVNA/</link>
     <description>Recent content on Santiago Villa Neighborhood Association</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://drjkl.github.io/SVNA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 May 2024 12:12:31 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/SVNA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About SVNA</title>
+      <link>http://localhost:1313/SVNA/about/</link>
+      <pubDate>Tue, 07 May 2024 12:12:31 -0700</pubDate>
+      <guid>http://localhost:1313/SVNA/about/</guid>
+      <description>What is the SVNA? The Santiago Villa Neighborhood Association (SVNA) was started in 2015 as the Santiago Villa Residents Association (SVRA), a directory of our neighbors in the Santiago Villa mobile and manufactured home community in Mountain View.&#xA;In the spring of 2016, Barbara Davis, Trey Bornmann, and Bee Hanson began using the directory to organize a response to unexpected and unusually high space rent increases (between 5% and 10%), which were causing a serious hardship for many of our community&amp;rsquo;s residents.</description>
+    </item>
   </channel>
 </rss>
