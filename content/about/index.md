@@ -3,6 +3,7 @@ title = 'About SVNA'
 date = 2024-05-07T12:12:31-07:00
 # draft = true
 menus = 'main'
+description = "It stands for the Santiago Villa Neighborhood Association"
 
 +++
 
@@ -26,11 +27,13 @@ The five-member SVNA Board is elected annually. We have an "Election by Acclamat
 
 ### Our 2022-23 Board
 
-President:  Bee Hanson  
-Vice President:  Leticia Jones  
-Treasurer:  Randy Wise  
-Communications: John Waters  
-Guy Who Does Stuff: Alex Brown  
+|                        |               |
+| ---------------------- | ------------- |
+| **President**          | Bee Hanson    |
+| **Vice President**     | Leticia Jones |
+| **Treasurer**          | Randy Wise    |
+| **Communications**     | John Waters   |
+| **Guy Who Does Stuff** | Alex Brown    |
 
 Email: <board@santiagovilla.org>
 
