@@ -1,7 +1,9 @@
 +++
 title = 'About SVNA'
 date = 2024-05-07T12:12:31-07:00
-draft = true
+# draft = true
+menus = 'main'
+
 +++
 
 ## What is the SVNA?
@@ -10,11 +12,11 @@ The Santiago Villa Neighborhood Association (SVNA) was started in 2015 as the Sa
 
 In the spring of 2016, Barbara Davis, Trey Bornmann, and Bee Hanson began using the directory to organize a response to unexpected and unusually high space rent increases (between 5% and 10%), which were causing a serious hardship for many of our community's residents.
 
+{{< figure src="./trey_1.jpg" title="Trey Bornmann founded the SVNA in 2016 and then went on to establish the Mountain View Mobile Home Alliance (MVMHA) in 2017." class="about-image" >}}
+
 Trey had been involved in community organizing during Hurricane Katrina when he lived in New Orleans, and he applied his experience working with City government to help Santiago Villa residents challenge those unreasonable rent increases.
 
 Trey served as President of the SVNA until he and his family moved to Virginia in 2021. His impact on our community is truly hard to overstate, and we're all grateful for his efforts. Thanks, Trey!
-
-Trey Bornmann founded the SVNA in 2016 and then went on to establish the Mountain View Mobile Home Alliance (MVMHA) in 2017.
 
 Our current President is Bee Hanson, one of the original founders of the SVRA, and steadfast recorder of all SVNA and Mountain View Mobile Home Association (MVMHA) activities. Bee has lived in the neighborhood since 1996, and is looking forward to many more years here.
 
@@ -24,11 +26,11 @@ The five-member SVNA Board is elected annually. We have an "Election by Acclamat
 
 ### Our 2022-23 Board
 
-President:  Bee Hanson
-Vice President:  Leticia Jones
-Treasurer:  Randy Wise
-Communications: John Waters
-Guy Who Does Stuff: Alex Brown
+President:  Bee Hanson  
+Vice President:  Leticia Jones  
+Treasurer:  Randy Wise  
+Communications: John Waters  
+Guy Who Does Stuff: Alex Brown  
 
 Email: <board@santiagovilla.org>
 
@@ -62,5 +64,7 @@ believe this is one of our most important responsibilities.
 Before Covid, our most popular neighborhood activity was our summer barbecue. We held our first one at the clubhouse in 2018, and it was attended by more than 100 of our residents. Our second one was even more popular. The pandemic put a two-year hold on that annual event, but we hope fire up the grill again in 2023.
 
 ### Meetings in the Clubhouse
+
+{{< figure src="./SVNA_pizza_aframe.jpg" class="about-image">}}
 
 Before the pandemic, we held neighborhood meetings in the clubhouse once a month. This year, some of our grant money went to a Zoom membership, so we can continue to have meetings online no matter what the Coronavirus does next. We'll meet in person soon, but we might also add virtual meetings from time to time.

@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.about-image {
+    float: inline-start;
+    margin-inline-start: 0;
+    width: 200px;
+    img {
+        margin:0
+    }
+
+    figcaption {
+        font-size: 16px;
+        padding-inline: 8px;
+        margin: 0;
+    }
+}
