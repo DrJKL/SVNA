@@ -13,7 +13,7 @@ The Santiago Villa Neighborhood Association (SVNA) was started in 2015 as the Sa
 
 In the spring of 2016, Barbara Davis, Trey Bornmann, and Bee Hanson began using the directory to organize a response to unexpected and unusually high space rent increases (between 5% and 10%), which were causing a serious hardship for many of our community's residents.
 
-{{< figure src="./trey_1.jpg" title="Trey Bornmann founded the SVNA in 2016 and then went on to establish the Mountain View Mobile Home Alliance (MVMHA) in 2017." class="about-image" >}}
+{{< figure src="./trey_1.jpg" title="Trey Bornmann founded the SVNA in 2016 and then went on to establish the Mountain View Mobile Home Alliance (MVMHA) in 2017." class="float-start w-[200px] me-4 my-0">}}
 
 Trey had been involved in community organizing during Hurricane Katrina when he lived in New Orleans, and he applied his experience working with City government to help Santiago Villa residents challenge those unreasonable rent increases.
 
@@ -68,6 +68,6 @@ Before Covid, our most popular neighborhood activity was our summer barbecue. We
 
 ### Meetings in the Clubhouse
 
-{{< figure src="./SVNA_pizza_aframe.jpg" class="about-image">}}
+{{< figure src="./SVNA_pizza_aframe.jpg" class="w-[200px] float-start me-4 my-0">}}
 
 Before the pandemic, we held neighborhood meetings in the clubhouse once a month. This year, some of our grant money went to a Zoom membership, so we can continue to have meetings online no matter what the Coronavirus does next. We'll meet in person soon, but we might also add virtual meetings from time to time.
