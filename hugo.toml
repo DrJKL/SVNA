@@ -1,0 +1,4 @@
+baseURL = 'https://drjkl.github.io/SVNA/'
+languageCode = 'en-us'
+title = 'Santiago Villa Neighborhood Association'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
