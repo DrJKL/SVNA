@@ -15,8 +15,7 @@ description = "Santiago Villa Neighborhood Association (rocks)"
 enableSearch = "true"
 
 [homepage]
-  layout = "profile" # valid options: page, profile, custom
-  feature = "SVNA_Banner_1.png"
+  layout = "custom" # valid options: page, profile, custom
   showRecent = false
 
 [article]
@@ -55,3 +54,9 @@ enableSearch = "true"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true

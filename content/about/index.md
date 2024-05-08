@@ -1,7 +1,6 @@
 +++
 title = 'About SVNA'
 date = 2024-05-07T12:12:31-07:00
-# draft = true
 menus = 'main'
 description = "It stands for the Santiago Villa Neighborhood Association"
 
