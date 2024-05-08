@@ -1,8 +1,10 @@
 +++
 title = 'Construction News'
 date = 2024-05-07T12:13:31-07:00
-menus = 'main'
 description = "A lot of things being built up here"
+
+[menus.main]
+    name = 'Construction'
 
 +++
 
