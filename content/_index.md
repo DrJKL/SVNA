@@ -1,6 +1,6 @@
 +++
 
 title = "SVNA Website"
-feature = "cover.png"
+cover = "img/Logo.png"
 
 +++

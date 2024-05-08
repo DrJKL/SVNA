@@ -1,11 +1,17 @@
 +++
 title = 'Mountain View Mobile Home Alliance'
 date = 2024-05-08T00:57:57-07:00
-menu = 'main'
-[menus.main]
+menu = 'footer'
+[menus.footer]
     name = 'MVMHA'
 
+
 +++
+
+
+{{< alert "circle-info" >}}
+Learn more at the [MVMHA website](https://mvmha.com)
+{{< /alert >}}
 
 Finally, after six years of hard work, we have rent control! How did the **Mountain View Mobile Home Rent Stabilization Ordinance** get created? Here's the story.
 

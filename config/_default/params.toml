@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "avocado"
+colorScheme = "sapphire"
 # darkMode = "auto"
 # darkToggle = false
 # logo = "img/logo.jpg"
@@ -35,9 +35,10 @@ enableSearch = "true"
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
-  groupByYear = true
+  groupByYear = false
+  showTableOfContents = true
 
 [taxonomy]
   showTermCount = true
@@ -55,8 +56,13 @@ enableSearch = "true"
   # pinterest = ""
   # yandex = ""
 
+[header]
+  logo = "img/Logo_dark.png"
+  logoDark = "img/Logo.png"
+  showTitle = false
+
 [footer]
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true

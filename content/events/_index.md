@@ -1,6 +1,7 @@
 +++
 title = 'Events'
-date = 2024-05-08T00:49:50-07:00
+date = 2024-05-08T01:14:27-07:00
+draft = true
 menu = 'main'
 +++
 
@@ -18,11 +19,11 @@ Here are some pictures of what SVNA and City Council meetings looked like before
 
 ![Clubhouse Meeting](./clubhouse_meeting.jpg)
 
-## Neighborhood Events
-
+## Some of our previous Neighborhood Events
+<!-- 
 - Coffee Klatsch
 - Everyone's Birthday
 - Halloween
 - Summer Barbecue
 - Friendsgiving
-- Cocoa Klatsch
+- Cocoa Klatsch -->
