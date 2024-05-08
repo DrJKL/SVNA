@@ -1,7 +1,7 @@
 +++
 title = 'Events'
 date = 2024-05-08T01:14:27-07:00
-draft = true
+draft = false
 menu = 'main'
 +++
 

@@ -36,7 +36,7 @@ enableSearch = "true"
 
 [list]
   showBreadcrumbs = true
-  showSummary = false
+  showSummary = true
   groupByYear = false
   showTableOfContents = true
 
