@@ -1,6 +1,6 @@
 +++
 title = '2023 Cocoa Klatsch'
-date = 2024-05-08T01:14:45-07:00
+date = 2023-12-08T01:14:45-07:00
 draft = false
 layout = "simple"
 showBreadcrumbs = true

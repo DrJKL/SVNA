@@ -1,8 +1,12 @@
 +++
-title = 'Events'
-date = 2024-05-08T01:14:27-07:00
+title = 'Neighborhood Events'
+date = 2023-10-31T01:14:27-07:00
 draft = false
-menu = 'main'
+type = 'events_page'
+[cascade]
+    showBreadcrumbs = true
+[menus.main]
+    name = "Events"
 +++
 
 ## City Council & RHC Meetings
@@ -19,7 +23,6 @@ Here are some pictures of what SVNA and City Council meetings looked like before
 
 ![Clubhouse Meeting](./clubhouse_meeting.jpg)
 
-## Some of our previous Neighborhood Events
 <!-- 
 - Coffee Klatsch
 - Everyone's Birthday
