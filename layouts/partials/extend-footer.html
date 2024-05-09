@@ -1,0 +1,4 @@
+{{- $css := resources.Get "/css/lightbox.css" | fingerprint -}}
+{{- $js := resources.Get "/js/lightbox.js" | fingerprint -}}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}"/>
+<script async src="{{ $js.RelPermalink }}"></script>
