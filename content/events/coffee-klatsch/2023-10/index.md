@@ -9,4 +9,6 @@ feature = "*11*"
     name = "October 2023"
 +++
 
+Featuring live music from our neighbor Elbert Gong and crew.
+
 {{< gallery >}}
