@@ -8,3 +8,9 @@ description = ""
     name = "Contact Us"
 
 +++
+
+## General email
+    ✉️ contact@santiagovilla.org
+
+## President
+    🏛️ president@santiagovilla.org

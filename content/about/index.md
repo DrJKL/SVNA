@@ -5,6 +5,7 @@ description = "It stands for the Santiago Villa Neighborhood Association"
 weight = 10
 
 [menus.main]
+    identifier = 'About'
     name = 'About'
 
 +++

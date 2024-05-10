@@ -7,9 +7,11 @@ showBreadcrumbs = true
 feature = "*_05*"
 cover = "*_05*"
 summary = "Mmmmm, cocoa so hot"
+weight = 30
 
 [menus.main]
     parent = "Events"
+    name = "Cocoa Klatsch 2023"
 
 +++
 

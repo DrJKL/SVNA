@@ -6,9 +6,11 @@ layout = "simple"
 showBreadcrumbs = true
 feature = "*_feature*"
 summary = "Ooky spooky"
+weight = 20
 
 [menu.main]
     parent = "Events"
+    name = "Halloween 2023"
 +++
 
  {{< gallery >}}

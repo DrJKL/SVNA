@@ -1825,6 +1825,10 @@ code {
   top: auto;
 }
 
+.right-0 {
+  right: 0px;
+}
+
 .z-10 {
   z-index: 10;
 }
