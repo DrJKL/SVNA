@@ -26,7 +26,7 @@
 #   weight = 30
 
 [[main]]
-  name = "Email List"
+  name = "Subscribe"
   url = "https://groups.google.com/g/santiago-villa-ra"
   weight = 40
   title = "Join the SVNA Listserv"

@@ -5,7 +5,7 @@ description = "A lot of things being built up here"
 weight = 30
 
 [menus.main]
-    name = 'Construction'
+    name = 'Development'
 
 +++
 
