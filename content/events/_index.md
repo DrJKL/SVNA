@@ -22,11 +22,3 @@ Alison Hicks, Lucas Ramirez, Pat Showalter, and Ellen Kamei are still our champi
 Here are some pictures of what SVNA and City Council meetings looked like before the pandemic.
 
 ![Clubhouse Meeting](./clubhouse_meeting.jpg)
-
-<!-- 
-- Coffee Klatsch
-- Everyone's Birthday
-- Halloween
-- Summer Barbecue
-- Friendsgiving
-- Cocoa Klatsch -->

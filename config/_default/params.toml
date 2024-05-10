@@ -60,6 +60,7 @@ enableSearch = "true"
   logo = "img/Logo_dark.png"
   logoDark = "img/Logo.png"
   showTitle = false
+  layout = "hybrid"
 
 [footer]
   showCopyright = true
