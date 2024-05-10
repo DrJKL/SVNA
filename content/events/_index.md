@@ -5,6 +5,7 @@ draft = false
 type = 'events_page'
 [cascade]
     showBreadcrumbs = true
+    categories = ['events']
 [menus.main]
     name = "Events"
 +++
