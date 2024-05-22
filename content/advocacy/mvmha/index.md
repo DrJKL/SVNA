@@ -2,7 +2,8 @@
 title = 'Mountain View Mobile Home Alliance'
 date = 2024-05-08T00:57:57-07:00
 menu = 'footer'
-[menus.footer]
+[menus.main]
+    parent = 'Advocacy'
     name = 'MVMHA'
 
 
