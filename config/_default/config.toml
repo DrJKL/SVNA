@@ -14,6 +14,8 @@ enableRobotsTXT = true
 
 summaryLength = 0
 
+googleAnalytics = "G-ZFKBYCS9YM"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
