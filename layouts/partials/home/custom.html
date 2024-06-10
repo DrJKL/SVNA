@@ -11,7 +11,7 @@
     {{ with .Site.Language.Params.Author.image }}
     {{ $authorImage := resources.Get . }}
     {{ if $authorImage }}
-    {{ $imgClass := "mb-2 h-auto w-96 rounded-lg" }}
+    {{ $imgClass := "mb-2 h-auto w-128 rounded-lg" }}
     {{ partial "picture.html" (dict "img" $authorImage "alt" $altText "class"
     $imgClass "lazy" $lazy) }}
     {{ end }}

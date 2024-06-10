@@ -1,4 +1,4 @@
-module github.com/DrJKL/SVNA
+module github.com/SantiagoVillaNeighborhoodAssociation/SantiagoVillaNeighborhoodAssociation.github.io
 
 go 1.22.2
 
