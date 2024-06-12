@@ -29,9 +29,9 @@ Because the SVNA is now defined as a "social organization" and a nonprofit, the 
 - Moorpark Mobile Home Park
 - Moffett Mobile Home Park
 
-## How We Got Mobile Home Space Rents Stabilized
+## How We Got Mobile Home Rents Stabilized
 
-In 2016, Mountain View voters passed ballot Measure V, which amended the City Charter by creating the Community Stabilization and Fair Rent Act (CSFRA). Among other things, the CSFRA imposes limitations on a landlord's abilities to terminate a tenancy and to increase rent.
+In 2016, Mountain View voters passed ballot Measure V, which amended the City Charter to add the Community Stabilization and Fair Rent Act (CSFRA). Among other things, the CSFRA imposes limitations on a landlord's abilities to terminate a tenancy and to increase rent.
 
 The passage of Measure V required the formation of a Rental Housing Committee to implement and enforce the CSFRA. But in its early years, a pro-landlord majority of the Committee decided that the CSFRA did not include mobile homes. They made this decision against the advice of their attorneys and in the face of an outcry from the public.
 
@@ -55,6 +55,6 @@ But that wasn't the end of the story. One of the park owners fought back with an
 
 ### What is the Next Step?
  
-Now we're fighting for a lower ceiling to rent increases (it's now 5%), and after adding our program to the City's Housing Element, which was certified by California's Department of Housing and Community Development on May 26, 2023, we got a commitment from City Council that they will study and amend our Ordinance by March of 2025. 
+Now we're fighting for a lower ceiling to rent increases (it's now 5%). After adding our program to the City's Housing Element, which was certified by California's Department of Housing and Community Development on May 26, 2023, we got a commitment from City Council that they will study and amend our Ordinance by March of 2025. 
 
- We're also going to fight to own the land under our homes by learning how we might convert our parks to resident-owned communities. That's going to be another significant, long-term struggle - but it will be worth it if we can find funding from a community land trust to help our residents own their spaces as well as their homes.
+ In the interim, we've been learning how we might convert our parks to resident-owned communities by getting funding from community land trusts, or other resources that become available from time to time. It's going to be another significant, long-term struggle - but it will be worth it if we can help our mobile homeowners finally own the space under their homes.
