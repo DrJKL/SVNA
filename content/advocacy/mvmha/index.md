@@ -57,4 +57,4 @@ But that wasn't the end of the story. One of the park owners fought back with an
  
 Now we're fighting for a lower ceiling to rent increases (it's now 5%). After adding our program to the City's Housing Element, which was certified by California's Department of Housing and Community Development on May 26, 2023, we got a commitment from City Council that they will study and amend our Ordinance by March of 2025. 
 
- In the interim, we've been learning how we might convert our parks to resident-owned communities by getting funding from community land trusts, or other resources that become available from time to time. It's going to be another significant, long-term struggle - but it will be worth it if we can help our mobile homeowners finally own the space under their homes.
+In the interim, we've been learning how we might convert our parks to resident-owned communities by getting funding from community land trusts, or other resources that become available from time to time. It's going to be another significant, long-term struggle - but it will be worth it if we can help our mobile homeowners finally own the space under their homes.
