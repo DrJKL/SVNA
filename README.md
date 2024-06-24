@@ -1,1 +1,1 @@
-# [Santiago Villa Neighborhood Association](https://drjkl.github.io/SVNA)
+# [Santiago Villa Neighborhood Association](https://santiagovilla.org)

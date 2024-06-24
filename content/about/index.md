@@ -43,7 +43,7 @@ We'll be having an election for SVNA officers in July. If you like hanging out w
 | **Vice President**     | Leticia Jones |
 | **Treasurer**          | Randy Wise    |
 | **Communications**     | John Waters   |
-| **Guy Who Does Stuff** | Alex Brown    |
+| **Member At Large**    | Alex Brown    |
 
 Email: <board@santiagovilla.org>
 
