@@ -45,4 +45,4 @@ After the global pandemic, those plans had to be changed. REWS is now reevaluati
 
 SyWest is the developer chosen by the Syufy family, which owns the local Cinemark Century Theatre. The theater and all of the surrounding buildings will be redeveloped in the next decade or so.
 
-The large residential and retail project is only in the planning stages, and the fact that part of the Gateway property is owned by Google makes it unclear what the final result will be. But SyWest does have its elaborate plans documented in the City's Legistar database if you're interested in finding out more.
+The large residential and retail project is only in the planning stages, and the fact that part of the Gateway property is owned by Google makes it unclear what the final result will be. But SyWest does have [its elaborate plans](https://www.mountainview.gov/our-city/departments/community-development/planning/development-projects/sywest-master-plan) documented in the City's Legistar database if you're interested in finding out more.
