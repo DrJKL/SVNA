@@ -57,7 +57,7 @@ Nonprofit status gives us the ability to solicit donations from organizations wh
 
 ### Our Financial Status
 
-In 2017, SVNA qualified to receive an annual neighborhood association support grant from the City of Mountain View in the amount of $1800. We used those funds to get our association started. The annual support grant was increased the following year to $2000, but because of the impact on the City of the COVID-19 pandemic, and the proliferation of new neighborhood associations, the current grant gradually decreased, and is now $904 annually. Board members have contributed when we want to try something new, and residents have often contributed baked goods and tasty dishes to our social events.
+Since 2017, SVNA has qualified to receive an annual neighborhood association support grant from the City of Mountain View, originally in the amount of $1800. We used those funds to get our association started. The annual support grant was increased the following year to $2000, but because of the impact on the City of the COVID-19 pandemic, and the proliferation of new neighborhood associations, the current grant gradually decreased, and is now $904 annually. Board members have contributed when we want to try something new, and residents have often contributed baked goods and tasty dishes to our social events.
 
 ## What Does SVNA Do?
 
