@@ -27,7 +27,7 @@ The Sobrato Organization has been keeping SVNA informed of their plans for two l
 
 The South Parcel, [ROWE at Pear Village](https://rowepearvillage.com/), is completed and has started leasing, but the surrounding amenities are still under construction. The North Parcel is only starting to be developed, as we can see from the heavy equipment in the large parcel on Space Park.
 
-When both projects are completed, we will have access to some of the new ground-floor retail amenities that will serve those two projects. We discussed have an open gate into that development with Sobrato, but we'll first have to get buy-in from park management.
+When both projects are completed, we will have access to some of the new ground-floor retail amenities that will serve those two projects. We discussed re-opening a gate into that development with Sobrato directly onto Pear, but we'll first have to get buy-in from park management.
 
 #### Eden Housing's La Avenida Apartments
 
