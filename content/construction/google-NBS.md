@@ -59,4 +59,4 @@ Q: **Will affordable housing have to be set aside?**
 
 A: No. The City requires 15% of the new units to be affordable. Google will contribute land to the city for this purpose. In term, public financing could kick in. Note: the Notice of Funding Availability [NOFA] is a notice published each year in the Federal Register.
 
-Originally 20% affordable units were intended for the project, but the additional 5% had been delegated to builders of the new developments. In this market, the 5% is a challenge for residential developers, since it requires a subsidy for which there is no public option.  
+Originally 20% affordable units were intended for the project, but the additional 5% had been delegated to builders of the new developments. In this market, the 5% is a challenge for residential developers, since it requires a subsidy for which there is no public option.
