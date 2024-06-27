@@ -1,0 +1,24 @@
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.418 cd .\Documents\
+   2        0.487 cd github
+   3        0.421 cd .\SantiagoVillaNeighborhoodAssociation.github.io\
+   4        0.241 cd .\content\
+   5        0.481 ls
+   6        1.075 git status
+   7       30.358 git log
+   8        8.297 git log --oneline
+   9        0.653 git diff c530b37 a4fle32
+  10        0.854 git diff 4bb42cc 92dec17
+  11        0.854 git remote -v
+  12        1.526 git branch
+  13        1.061 git google-NBS
+  14        1.000 git branch google-NBS
+  15        1.301 git checkout google-NBS
+  16        0.930 git branch
+  17        0.840 git cherry-pick c530b37
+  18        0.667 git checkout space-park
+  19     1:22.477 git log
+  20        1.274 git status
+
