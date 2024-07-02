@@ -1,7 +1,8 @@
 +++
 title = 'About SVNA'
 date = 2024-05-07T12:12:31-07:00
-description = "It stands for the Santiago Villa Neighborhood Association"
+description = "The History and details of the Santiago Villa Neighborhood Association"
+summary = "It stands for the Santiago Villa Neighborhood Association"
 weight = 10
 
 [menus.main]

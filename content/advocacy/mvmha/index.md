@@ -1,6 +1,7 @@
 +++
 title = 'Mountain View Mobile Home Alliance'
 date = 2024-05-08T00:57:57-07:00
+description = "An overview of the Mountain View Mobile Home Alliance for SVNA members"
 menu = 'footer'
 [menus.main]
     parent = 'Advocacy'
