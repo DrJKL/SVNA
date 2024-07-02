@@ -13,19 +13,19 @@ weight = 10
 
 The Santiago Villa Residents' Association (SVRA) was started by Alex Brown, Bee Hanson, Barbara Davis, Stuart Esbit, and Trey Bornmann. That organization was started in 2015, but over the years there have been other informal resident organizations. We still have some typewritten directories from those early years.
 
-SVRA was started by gradually making a directory of neighbors. By 2017, our membership was big enough to apply for and receive a grant from the City of Mountain View. That's when our Residents' Association became the Santiago Villa Neighborhood Association (SVNA). Our SVNA Google Group has 222 records, and it grows each time we have a new event.
+SVRA was started by gradually making a directory of neighbors. By 2017, our membership was big enough to apply for and receive a grant from the City of Mountain View. That's when our Residents' Association became the Santiago Villa Neighborhood Association (SVNA).
 
 Since 2018, we have used our City grant money to hold events like a summer barbecue, ice cream socials, Hallowe'en and Thanksgiving events, and to publish newsletters and a website. Last year, we started a popular new tradition -- the Coffee Klatsch, which depending on the weather, is held outside on the first Saturday of each month.
 
 ### Annual BBQ
 
-Before Covid, our most popular neighborhood activity was our summer barbecue. We held our first one at the clubhouse in 2018, and it was attended by more than 100 of our residents, as well as City Councilmembers and community friends. The pandemic put a two-year hold on that annual event, but we have managed to hold many other social events, and hope fire up the grill again soon.
+Before Covid, our most popular neighborhood activity was our summer barbecue. We held our first one at the clubhouse in 2018, and it was attended by more than 100 of our residents, as well as City Councilmembers and community friends. The pandemic put a two-year hold on that annual event, but we have managed to hold many other social events, and hope to fire up the grill again soon.
 
 ### Meetings in the Clubhouse
 
 {{< figure src="./SVNA_pizza_aframe.jpg" class="w-[200px] float-start me-4 my-0">}}
 
-Before the pandemic, we held dinner meetings in the clubhouse once a month, and we were finally able to resume meeting in person in 2022. Our last meeting featured homemade tacos, and we'll be meeting again soon.
+Before the pandemic, we held dinner meetings in the clubhouse once a month, and we were finally able to resume meeting in person in 2022. Our last meeting (June 2024) featured homemade tacos, and we'll be meeting again soon.
 
 If you're in our Google Group or on NextDoor, you'll be notified of the next meeting or event. If not, watch for the message boards posted at the Space Park and La Avenida entrances to the park - or just send email to board@santiagovilla.org.
 
@@ -42,7 +42,7 @@ We'll be having an election for SVNA officers in July. If you like hanging out w
 | **President**          | Bee Hanson    |
 | **Vice President**     | Leticia Jones |
 | **Treasurer**          | Randy Wise    |
-| **Communications**     | John Waters   |
+| **Communications**     | Charlie Pope  |
 | **Member At Large**    | Alex Brown    |
 
 Email: <board@santiagovilla.org>
