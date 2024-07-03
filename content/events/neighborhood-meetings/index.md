@@ -1,6 +1,7 @@
 +++
 title = 'Neighborhood Association Meetings'
 date = 2024-05-21T01:14:27-07:00
+description = "Details about our SVNA meetings where we conduct more official business"
 draft = false
 feature = "*clubhouse*"
 cover = ""
