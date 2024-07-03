@@ -1,7 +1,8 @@
 +++
 title = 'Construction News'
 date = 2024-05-07T12:13:31-07:00
-description = "A lot of things being built up here"
+description = "An overview of nearby Construction Projects for Santiago Villa residents"
+summary = "A lot of things being built up here"
 weight = 30
 
 [menus.main]

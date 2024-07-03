@@ -1,6 +1,7 @@
 +++
 title = '2023 Cocoa Klatsch'
 date = 2023-12-08T01:14:45-07:00
+description = "2023's Holiday Time event, the Cocoa Klatsch"
 draft = false
 layout = "simple"
 showBreadcrumbs = true
