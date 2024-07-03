@@ -19,7 +19,7 @@ Due to an existing surplus of commercial and office real estate, the Landings pr
 
 Two parking lots (Alta/Huff and 1851 Charleston) have been finished, providing the necessary parking for Google's larger North Bayshore offices, including the new Gradient Canopy visitors and employees.
 
-### North Bayshore Master Plan 
+### North Bayshore Master Plan
 
 Google, including SITELab, continues their efforts to make progress on the implementation of the North Bayshore Master Plan. Their current priority is identifying the most effective strategies for promoting residential development (both market rate and affordable housing) without introducing additional office space in the near future. Note: this scenario was not complemented when the master plan was approved.
 
@@ -33,7 +33,7 @@ Google, including SITELab, continues their efforts to make progress on the imple
 
 - Ruth Porat, Alphabet's Chief Investment Officer and former CFO, continues to put focus on optimizing the company's real estate portfolio by discontinuing certain leases. This long-term strategy will help with REWS moving forward with its own developments.
 
-## Questions and Answers 
+## Questions and Answers
 
 Q: **Who is our Google contact now that Nikki Lowy and Brooke Ray Smith have left?**
 
